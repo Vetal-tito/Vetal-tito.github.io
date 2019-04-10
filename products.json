@@ -1,4 +1,4 @@
-{ "products" : [
+{ "show" : [
   {"id": 1, "name": "Cheese", "Price" : 2.50, "Location": "Refrigerated foods"},
   {"id": 2, "name": "Crisps", "Price" : 3, "Location": "the Snack isle"},
   {"id": 3,"name": "Pizza", "Price" : 4, "Location": "Refrigerated foods"},
